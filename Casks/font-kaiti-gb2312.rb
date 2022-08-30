@@ -4,7 +4,7 @@ cask "font-kaiti-gb2312" do
 
   url "https://github.com/rickygao/homebrew-gb-fonts/releases/download/v#{version}/MacKTGB2312.ttf"
   name "Kaiti GB2312"
-  desc "Legacy Chinese font called Kaiti that is compatible with GB2312 encoded glyphs"
+  desc "Legacy Chinese font called Kaiti for the GB2312 encoding"
   homepage "https://github.com/rickygao/homebrew-gb-fonts"
 
   font "MacKTGB2312.ttf"
