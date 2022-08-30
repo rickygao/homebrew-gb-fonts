@@ -1,10 +1,14 @@
 # Rickygao Gb-fonts
 
+This tap offers some legacy Chinese fonts for the GB2312 encoding, such as, Fangsong GB2312 and Kaiti GB2312.
+
 ## How do I install these formulae?
 
 `brew install rickygao/gb-fonts/<formula>`
 
-Or `brew tap rickygao/gb-fonts` and then `brew install <formula>`.
+Or `brew tap rickygao/gb-fonts` and then `brew install <formula>`,
+
+where `<formula> = {font-fangsong-gb2312, font-kaiti-gb2312}`.
 
 ## Documentation
 
