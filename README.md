@@ -1,4 +1,4 @@
-# Rickygao Gb-fonts
+# Ricky Gao's GB Fonts
 
 This tap offers some legacy Chinese fonts for the GB2312 encoding, such as, Fangsong GB2312 and Kaiti GB2312.
 
